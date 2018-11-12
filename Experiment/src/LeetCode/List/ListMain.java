@@ -52,7 +52,7 @@ public class ListMain {
         ln = new RemoveNthFromEnd().removeNthFromEnd(l1,2);
         //链表字符串化并输出
         String out = listNodeToString(ln);
-        System.out.println(out);
+//        System.out.println(out);
 
     }
 
