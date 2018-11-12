@@ -25,6 +25,7 @@ public class mybatistest {
             e.printStackTrace();
         }
         String sql = "select * from user where username = ?";
+//        System.out.printf("1");
         //4、获取预处理statement
 
 
@@ -36,7 +37,7 @@ public class mybatistest {
 
             ps.setString(1,"王五");
             ResultSet rs = ps.executeQuery();
-            System.out.println("1");
+//            System.out.println("1");
             while (rs.next())
             {
                 System.out.println(rs.getString("id")+rs.getString("username"));
