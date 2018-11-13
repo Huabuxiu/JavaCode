@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d06afd-2231-4f09-9e75-de0aeec7dfbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources/12f85168-19e3-470a-947c-4e20c0605574.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources/12f85168-19e3-470a-947c-4e20c0605574.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources/3613f372-8b6e-4d7b-ac5e-8204fcfbf358.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCdome/out/production/JDBCdome/Hello/HeroTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/out/production/JDBCdome/Hello/HeroTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCdome/out/production/JDBCdome/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/out/production/JDBCdome/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCdome/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,6 +39,13 @@
         <item name="mybatis@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="mybatis: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="items: table" type="98d5ac3d:MysqlImplModel$Table" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
@@ -132,11 +132,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="items" value="1" />
           <entry key="java" value="3" />
+          <entry key="orderdetail" value="1" />
+          <entry key="orders" value="1" />
+          <entry key="user" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Database Element" value="4" />
           <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
@@ -148,11 +153,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mybatistest/mybatistest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="283">
               <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/schema/mybatis/table/items">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -249,9 +263,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="979" />
-    <option name="height" value="1090" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -384,7 +398,7 @@
       <workItem from="1541594767330" duration="7236000" />
       <workItem from="1542010636742" duration="1070000" />
       <workItem from="1542011779239" duration="2993000" />
-      <workItem from="1542075508871" duration="291000" />
+      <workItem from="1542075508871" duration="2514000" />
     </task>
     <task id="LOCAL-00001" summary="this is a git test">
       <created>1542011939439</created>
@@ -404,10 +418,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25590000" />
+    <option name="totallyTimeSpent" value="27813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -431,7 +446,7 @@
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Database" order="2" weight="0.19705094" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.19705094" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
@@ -516,13 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/schema/mybatis/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mybatistest/mybatisgittest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/mybatistest/git.java" />
     <entry file="file://$PROJECT_DIR$/src/com/mybatistest/gitTestfile.java" />
@@ -572,6 +580,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="44" selection-start-line="2" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/schema/mybatis/table/orderdetail">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/schema/mybatis/table/orders">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/schema/mybatis/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/schema/mybatis/table/items">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>

@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="29" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc6e9cbb-5005-4234-9072-626f146d1e36" name="Default Changelist" comment="" />
+    <list default="true" id="bc6e9cbb-5005-4234-9072-626f146d1e36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +30,47 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="spj@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="market@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="spj@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="market@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="market@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="market: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="market@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="market: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="goods: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="market@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="market: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="orders: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tsgl@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tsgl@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tsgl@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tsgl: schema" type="c314c289:MysqlImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -106,14 +145,67 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1385560073">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sql" value="888" />
+          <entry key="txt" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Scratch" value="888" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="customers" value="4" />
+          <entry key="goods" value="1" />
+          <entry key="java" value="1" />
+          <entry key="orders" value="2" />
+          <entry key="s" value="1" />
+          <entry key="spj" value="2" />
+          <entry key="sql" value="2" />
+          <entry key="tel" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="10" />
+          <entry key="JAVA" value="1" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2e4186be-21fe-417b-acc8-0d9e31bc314f/console.sql">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a6c293d4-6e97-4fe9-81b4-97676d7f0c36/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="26">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://a6c293d4-6e97-4fe9-81b4-97676d7f0c36/schema/market/table/orders">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -127,6 +219,9 @@
         <option value="Gradle Kotlin DSL Build Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -153,8 +248,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a5d82075-1c0a-490a-a687-c131175782bf/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d7359241-5acd-42a0-9e6c-a69a111a54b0/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/12f85168-19e3-470a-947c-4e20c0605574/console.sql" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a6c293d4-6e97-4fe9-81b4-97676d7f0c36/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2e4186be-21fe-417b-acc8-0d9e31bc314f/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a6c293d4-6e97-4fe9-81b4-97676d7f0c36/console.sql" />
       </list>
     </option>
   </component>
@@ -171,21 +266,42 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="979" />
-    <option name="height" value="1090" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JDBCdome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBCdome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBCdome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBCdome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540629612469" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542083604367" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/Change SQL Dialect" value="MySQL&#10;GenericSQL" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -311,11 +427,34 @@
       <workItem from="1541470927381" duration="7672000" />
       <workItem from="1541594766454" duration="597000" />
       <workItem from="1542075414566" duration="92000" />
+      <workItem from="1542075623624" duration="6788000" />
     </task>
+    <task id="LOCAL-00001" summary="jdbc update">
+      <created>1542075674861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542075674861</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jdbc update">
+      <created>1542075828355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542075828355</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jdbc update">
+      <created>1542075864530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542075864530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60182000" />
+    <option name="totallyTimeSpent" value="66970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,7 +469,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985591" weight="0.16420911" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985591" weight="0.18230563" />
       <window_info id="Structure" order="1" sideWeight="0.50144094" side_tool="true" weight="0.15817694" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -344,8 +483,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="7" visible="true" weight="0.38873994" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="7" visible="true" weight="0.32348993" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.72080535" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3297587" />
@@ -355,7 +494,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.36193028" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.21983914" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
@@ -395,24 +534,44 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jdbc update" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc update" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/967f5246-eafe-4fcf-8221-b3718bb05c33/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/JDBCdome/Main.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3613f372-8b6e-4d7b-ac5e-8204fcfbf358/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -615,13 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hello/Conn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hello/ConnectionPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -662,7 +814,6 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/12f85168-19e3-470a-947c-4e20c0605574/console_5.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://a6c293d4-6e97-4fe9-81b4-97676d7f0c36/schema/market/table/customers" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d7359241-5acd-42a0-9e6c-a69a111a54b0/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -670,7 +821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://2e4186be-21fe-417b-acc8-0d9e31bc314f/schema/spj/table/spj" />
     <entry file="das://2e4186be-21fe-417b-acc8-0d9e31bc314f/schema/spj/table/j" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/12f85168-19e3-470a-947c-4e20c0605574/console.sql">
       <provider selected="true" editor-type-id="text-editor">
@@ -681,17 +831,69 @@
     </entry>
     <entry file="das://a5d82075-1c0a-490a-a687-c131175782bf/schema/jwgl/table/student" />
     <entry file="das://a5d82075-1c0a-490a-a687-c131175782bf/schema/jwgl/table/course" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a6c293d4-6e97-4fe9-81b4-97676d7f0c36/console.sql">
+    <entry file="das://2e4186be-21fe-417b-acc8-0d9e31bc314f/schema/spj/table/s">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2e4186be-21fe-417b-acc8-0d9e31bc314f/schema/spj/table/spj">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d7359241-5acd-42a0-9e6c-a69a111a54b0/schema/market/table/customers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hello/Conn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="35" lean-forward="true" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="-33">
+          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2e4186be-21fe-417b-acc8-0d9e31bc314f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://a6c293d4-6e97-4fe9-81b4-97676d7f0c36/schema/market/table/customers/index/tel">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="52">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a6c293d4-6e97-4fe9-81b4-97676d7f0c36/schema/market/table/goods">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a6c293d4-6e97-4fe9-81b4-97676d7f0c36/schema/market/table/customers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a6c293d4-6e97-4fe9-81b4-97676d7f0c36/schema/market/table/orders">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a6c293d4-6e97-4fe9-81b4-97676d7f0c36/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
