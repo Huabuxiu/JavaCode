@@ -9,6 +9,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Date;
+import java.util.IntSummaryStatistics;
 import java.util.List;
 
 /**
@@ -22,10 +23,51 @@ public class MybatisFirst<sqlSession, fore> {
 
 //        finduserbyid();
 //        finduserbyname();
-        User user = new User("李四",new Date(),"1","浙江温州");
-        insertuser(user);
+        User user1 = new User("王五",new Date(),"1","河南郑州");
+       // insertuser(user1);
+        user1.setId(1);
+      deleteUser(user1);
+
     }
 
+    public static void deleteUser(User user) throws IOException {
+
+        //加载数据库文件
+        String resource = "SqlMapConfig.xml";
+        InputStream inputStream = null;
+
+        inputStream = Resources.getResourceAsStream(resource);
+        //建立会话工厂
+        SqlSessionFactory  sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
+        //建立会话
+        SqlSession sqlSession = sqlSessionFactory.openSession();
+
+        //操作数据库
+        sqlSession.delete("test.deleteById",user);
+        sqlSession.commit();
+        sqlSession.close();
+    }
+
+    public static void updateuser(User user){
+
+        String resource = "SqlMapConfig.xml";
+
+        InputStream inputStream = null;
+
+        try{
+            inputStream = Resources.getResourceAsStream(resource);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
+        SqlSession sqlSession =   sqlSessionFactory.openSession();
+        //操作数据库
+        sqlSession.update("test.updateUser",user);
+
+      sqlSession.commit();
+      sqlSession.close();
+    }
 
     public static void insertuser(User user){
         String resource = "SqlMapConfig.xml";
