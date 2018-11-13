@@ -39,7 +39,7 @@ public class MybatisFirst<sqlSession, fore> {
         }
 
         SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
-        SqlSession sqlSession = sqlSessionFactory.openSession();
+        SqlSession sqlSession =   sqlSessionFactory.openSession();
         //操作数据库
 
         sqlSession.insert("test.insertUser",user);

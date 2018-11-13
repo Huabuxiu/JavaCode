@@ -15,4 +15,13 @@
     <insert id="insertUser" parameterType="com.itcast.mybatis.po.User">
         insert into user(id,username,birthday,sex,address) value (#{id},#{username},#{birthday},#{sex},#{address})
     </insert>
+
+    <update id="updateUser" parameterType="com.itcast.mybatis.po.User">
+       update user set username = #{username}
+                      birthday = #{birthday}
+                      sex = #{sex}
+                      address = #{address}
+                      where id = #{id};
+    </update>
+
 </mapper>
