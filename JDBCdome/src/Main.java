@@ -1,5 +1,7 @@
 import Hello.MethodClass;
 
+import java.util.Date;
+
 public class Main {
     private static final String DRIVER_NAME = "com.mysql.jdbc.Driver";
     //数据库连接地址
@@ -13,7 +15,18 @@ public class Main {
 //测试分页查询
         int start = 0;
         int count = 5;
-        MethodClass.list(start,count);
+        //MethodClass.list(start,count);
+
+        Date time = new Date();
+
+        //这里是运行时间
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        Date timeNow = new Date();
+        System.out.printf(String.valueOf(timeNow.compareTo(time))+"s");
 
     }
 }
