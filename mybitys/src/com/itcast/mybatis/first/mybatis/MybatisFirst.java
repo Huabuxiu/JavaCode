@@ -1,5 +1,6 @@
 package com.itcast.mybatis.first.mybatis;
 
+import com.itcast.mybatis.dao.UserdaoImpl;
 import com.itcast.mybatis.po.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
@@ -9,7 +10,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Date;
-import java.util.IntSummaryStatistics;
+
 import java.util.List;
 
 /**
@@ -21,14 +22,28 @@ import java.util.List;
 public class MybatisFirst<sqlSession, fore> {
     public static void main(String[] args) throws IOException {
 
+        String resource = "SqlMapConfig.xml";
+        InputStream inputStream = null;
+
+        inputStream = Resources.getResourceAsStream(resource);
+        //建立会话工厂
+        SqlSessionFactory  sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
+
 //        finduserbyid();
 //        finduserbyname();
         User user1 = new User("王五",new Date(),"1","河南郑州");
-       // insertuser(user1);
-        user1.setId(1);
-      deleteUser(user1);
+        // insertuser(user1);
+       user1.setId(1);
+//      deleteUser(user1);
+
+        UserdaoImpl userdao = new UserdaoImpl(sqlSessionFactory);
+//        userdao.insertUser(user1);
+
+        User user2 = userdao.findUserById(1);
+        System.out.printf(String.valueOf(user2));
 
     }
+
 
     public static void deleteUser(User user) throws IOException {
 

@@ -22,6 +22,14 @@ public class User {
         this.address = address;
     }
 
+    public User(Integer id, String username, java.sql.Date birthday, String sex, String address) {
+        this.id = id;
+        this.username = username;
+        this.birthday = birthday;
+        this.sex = sex;
+        this.address = address;
+    }
+
     public int getId() {
         return id;
     }
