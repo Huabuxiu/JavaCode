@@ -23,5 +23,6 @@
 
     <mappers>
         <mapper resource="com/itcast/mybatis/po/User.xml" />
+        <mapper resource="com/itcast/mybatis/dao/UserMapper.xml"/>
     </mappers>
 </configuration>
