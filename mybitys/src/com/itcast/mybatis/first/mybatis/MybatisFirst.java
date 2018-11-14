@@ -31,15 +31,17 @@ public class MybatisFirst<sqlSession, fore> {
 
 //        finduserbyid();
 //        finduserbyname();
-        User user1 = new User("王五",new Date(),"1","河南郑州");
+//        User user1 = new User("王五",new Date(),"1","河南郑州");
         // insertuser(user1);
-       user1.setId(1);
+//       user1.setId(1);
 //      deleteUser(user1);
 
-        UserdaoImpl userdao = new UserdaoImpl(sqlSessionFactory);
-//        userdao.insertUser(user1);
+        User user3 = new User("花不休",new Date(),"1","陕西西安");
+        user3.setId(21);
 
-        User user2 = userdao.findUserById(1);
+        UserdaoImpl userdao = new UserdaoImpl(sqlSessionFactory);
+        userdao.insertUser(user3);
+        User user2 = userdao.findUserById(21);
         System.out.printf(String.valueOf(user2));
 
     }
