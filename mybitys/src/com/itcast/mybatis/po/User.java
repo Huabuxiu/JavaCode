@@ -9,6 +9,10 @@ import java.util.Date;
  * @create: 2018-11-05 21:57
  **/
 public class User {
+
+    public User() {
+    }
+
     private int id;
     private String username;
     private Date birthday;
@@ -54,7 +58,7 @@ public class User {
         this.birthday = birthday;
     }
 
-    public String getSex() {
+    public String getSex(String s) {
         return sex;
     }
 

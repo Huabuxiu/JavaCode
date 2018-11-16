@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d06afd-2231-4f09-9e75-de0aeec7dfbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Experiment/.idea/arquillianContainers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Experiment/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Experiment/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Experiment/src/Test/LeetCode/Array/RotateTowLeverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/src/LeetCode/String/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itcast/mybatis/po/UserCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itcast/mybatis/po/UserQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/itcast/mybatis/dao/DaomainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/itcast/mybatis/dao/UserMapperTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Experiment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment/Experiment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment/Experiment.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybitys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybitys.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mybitys/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mybitys/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mybitys/com/itcast/mybatis/po/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mybitys/com/itcast/mybatis/po/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itcast/mybatis/po/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itcast/mybatis/po/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,13 +51,6 @@
         <item name="mybatis@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="mybatis: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="mybatis@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="mybatis: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="orders: table" type="98d5ac3d:MysqlImplModel$Table" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
@@ -116,49 +117,54 @@
     <session id="-532209433">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1600" />
-          <entry key="sql" value="77" />
+          <entry key="java" value="1960" />
+          <entry key="sql" value="149" />
           <entry key="txt" value="61" />
-          <entry key="xml" value="207" />
+          <entry key="xml" value="366" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1600" />
+          <entry key="JAVA" value="1960" />
           <entry key="PLAIN_TEXT" value="61" />
           <entry key="SQL" value="13" />
-          <entry key="Scratch" value="77" />
-          <entry key="XML" value="194" />
+          <entry key="Scratch" value="149" />
+          <entry key="XML" value="353" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="class" value="2" />
           <entry key="items" value="1" />
-          <entry key="java" value="18" />
+          <entry key="java" value="25" />
           <entry key="orderdetail" value="1" />
           <entry key="orders" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="sql" value="1" />
           <entry key="user" value="3" />
-          <entry key="xml" value="3" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
+          <entry key="CLASS" value="2" />
           <entry key="Database Element" value="6" />
-          <entry key="JAVA" value="18" />
-          <entry key="XML" value="3" />
+          <entry key="JAVA" value="25" />
+          <entry key="Properties" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -172,47 +178,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SqlMapConfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/Daomain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+            <state relative-caret-position="182">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -226,6 +193,45 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/com/itcast/mybatis/dao/UserMapperTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -234,6 +240,7 @@
         <option value="Interface" />
         <option value="Arquillian JUnit Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -256,15 +263,21 @@
         <option value="$PROJECT_DIR$/src/com/itcast/mybatis/po/User.xml" />
         <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserdaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/po/User.java" />
-        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/src/SqlMapConfig.xml" />
         <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapperTest.java" />
         <option value="$PROJECT_DIR$/src/test/UserMapperTest.java" />
-        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/console.sql" />
         <option value="$PROJECT_DIR$/src/com/itcast/mybatis/first/mybatis/MybatisFirst.java" />
         <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/Daomain.java" />
+        <option value="$PROJECT_DIR$/test/com/itcast/mybatis/dao/DaomainTest.java" />
+        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserCustom.java" />
+        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserQueryVo.java" />
+        <option value="$PROJECT_DIR$/src/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/po/UserQueryVo.java" />
+        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/po/User.java" />
+        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/po/UserCustom.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/console.sql" />
+        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/test/com/itcast/mybatis/dao/UserMapperTest.java" />
+        <option value="$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.xml" />
       </list>
     </option>
   </component>
@@ -275,9 +288,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1088" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -287,9 +301,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -329,12 +340,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybitys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybitys" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybitys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybitys" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,9 +370,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542330535951" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542383811295" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JDBCdome" />
@@ -360,20 +386,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="test" />
       <recent name="com.itcast.mybatis.dao" />
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\花不休\code\JavaCode\mybitys\src\com\itcast\mybatis\dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\花不休\code\JAVA\mybitys\src\com\itcast\mybatis\po" />
       <recent name="C:\Users\花不休\code\JAVA\mybitys\src" />
       <recent name="C:\Users\花不休\code\JAVA\mybitys\src\config" />
       <recent name="C:\Users\花不休\code\JAVA\mybitys" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\花不休\code\JavaCode\mybitys\src\com\itcast\mybatis\dao" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -388,13 +414,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Daomain">
+  <component name="RunManager" selected="JUnit.UserMapperTest.findUserCount">
     <configuration name="Daomain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itcast.mybatis.dao.Daomain" />
       <module name="mybitys" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itcast.mybatis.dao.*" />
+          <option name="PATTERN" value="com.itcast.mybatis.po.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,29 +441,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mybatistest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mybatistest.mybatistest" />
+    <configuration name="DaomainTest.setUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybitys" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mybatistest.*" />
+          <option name="PATTERN" value="com.itcast.mybatis.po.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.mybatis.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.mybatis.dao.DaomainTest" />
+      <option name="METHOD_NAME" value="setUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.findUserCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybitys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.mybatis.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.mybatis.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.mybatis.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="findUserCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.findUserList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybitys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.mybatis.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.mybatis.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.mybatis.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="findUserList" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.mybatistest" />
       <item itemvalue="Application.MybatisFirst" />
       <item itemvalue="Application.Daomain" />
+      <item itemvalue="JUnit.DaomainTest.setUp" />
+      <item itemvalue="JUnit.UserMapperTest.findUserList" />
+      <item itemvalue="JUnit.UserMapperTest.findUserCount" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserMapperTest.findUserCount" />
+        <item itemvalue="JUnit.UserMapperTest.findUserList" />
+        <item itemvalue="JUnit.DaomainTest.setUp" />
         <item itemvalue="Application.Daomain" />
         <item itemvalue="Application.MybatisFirst" />
-        <item itemvalue="Application.mybatistest" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +525,8 @@
       <workItem from="1542075508871" duration="11956000" />
       <workItem from="1542177328774" duration="1973000" />
       <workItem from="1542179409947" duration="4484000" />
-      <workItem from="1542330648524" duration="610000" />
+      <workItem from="1542330648524" duration="7195000" />
+      <workItem from="1542385712536" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="this is a git test">
       <created>1542011939439</created>
@@ -515,18 +581,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Manual_container_configuration__UserMapperTest_findUserById - 2018.11.14 at 14h 46m 07s.xml">
-      <configuration name="Manual container configuration: UserMapperTest.findUserById" configurationId="ArquillianJUnit" />
+    <history-entry file="UserMapperTest_findUserList - 2018.11.16 at 17h 47m 21s.xml">
+      <configuration name="UserMapperTest.findUserList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Manual_container_configuration__UserMapperTest_findUserById - 2018.11.14 at 14h 49m 37s.xml">
-      <configuration name="Manual container configuration: UserMapperTest.findUserById" configurationId="ArquillianJUnit" />
+    <history-entry file="UserMapperTest_findUserList - 2018.11.16 at 17h 51m 15s.xml">
+      <configuration name="UserMapperTest.findUserList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Manual_container_configuration__UserMapperTest_findUserById - 2018.11.14 at 14h 58m 08s.xml">
-      <configuration name="Manual container configuration: UserMapperTest.findUserById" configurationId="ArquillianJUnit" />
+    <history-entry file="UserMapperTest_findUserList - 2018.11.16 at 19h 00m 17s.xml">
+      <configuration name="UserMapperTest.findUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUserList - 2018.11.16 at 19h 00m 59s.xml">
+      <configuration name="UserMapperTest.findUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUserList - 2018.11.16 at 19h 01m 06s.xml">
+      <configuration name="UserMapperTest.findUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUserCount - 2018.11.16 at 19h 23m 28s.xml">
+      <configuration name="UserMapperTest.findUserCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUserList - 2018.11.16 at 19h 23m 59s.xml">
+      <configuration name="UserMapperTest.findUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUserCount - 2018.11.16 at 19h 24m 14s.xml">
+      <configuration name="UserMapperTest.findUserCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUserCount - 2018.11.16 at 19h 24m 56s.xml">
+      <configuration name="UserMapperTest.findUserCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUserCount - 2018.11.16 at 19h 25m 47s.xml">
+      <configuration name="UserMapperTest.findUserCount" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44322000" />
+    <option name="totallyTimeSpent" value="51505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -537,7 +624,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.09182306" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13404825" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49932975" weight="0.264308" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -546,7 +633,7 @@
       <window_info anchor="bottom" id="Database Console" order="4" weight="0.3558793" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.43355703" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3007284" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39958376" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.603538" />
@@ -554,7 +641,7 @@
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Database" order="2" weight="0.15671642" />
+      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.19839142" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
@@ -666,13 +753,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/production/mybitys/sqlmap/User.xml" />
-    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mybatistest/mybatisgittest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/mybatistest/git.java" />
     <entry file="file://$PROJECT_DIR$/src/com/mybatistest/gitTestfile.java" />
@@ -731,23 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/po/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/po/User.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -755,39 +818,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#deleteUser#0;class#MybatisFirst#0" />
-            <element signature="method#finduserbyname#0;class#MybatisFirst#0" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/itcast/mybatis/dao/DaomainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/mybitys/com/itcast/mybatis/dao/DaomainTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/po/User.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/Daomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="34" column="61" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/po/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/po/UserQueryVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/po/UserCustom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SqlMapConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+        <state relative-caret-position="182">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -798,13 +887,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/Daomain.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="208">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itcast/mybatis/dao/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5a7eb6fd-3a2e-437a-8bfd-c8a83b5125df/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/itcast/mybatis/dao/UserMapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -877,7 +987,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -897,6 +1006,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Arquillian JUnit:Release</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

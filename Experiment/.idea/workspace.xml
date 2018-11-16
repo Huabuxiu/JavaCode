@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/arquillianContainers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybitys/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/UserCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/UserQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybitys/test/com/itcast/mybatis/dao/DaomainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/mybitys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/mybitys.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/UserMapper.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,7 +83,7 @@
     <session id="-1977732262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -92,24 +95,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="21" />
+          <entry key="java" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2633" />
-          <entry key="txt" value="113" />
+          <entry key="java" value="2635" />
+          <entry key="txt" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2633" />
-          <entry key="PLAIN_TEXT" value="113" />
+          <entry key="JAVA" value="2635" />
+          <entry key="PLAIN_TEXT" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -123,8 +126,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/ArrayMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="48" column="5" selection-start-line="33" selection-start-column="3" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="1014">
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -141,20 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RotateTowLever.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="520">
+              <caret line="20" selection-start-line="20" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -162,8 +153,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/Rotate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="26" column="39" selection-start-line="24" selection-start-column="12" selection-end-line="26" selection-end-column="39" />
+            <state relative-caret-position="149">
+              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -203,9 +203,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -250,6 +250,7 @@
         <option value="$PROJECT_DIR$/Test/LeetCode/Array/RotateTowLeverTest.java" />
         <option value="$PROJECT_DIR$/src/Test/test/LeetCode/Array/RotateTowLeverTest.java" />
         <option value="$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" />
       </list>
     </option>
   </component>
@@ -266,9 +267,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1088" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -299,16 +301,13 @@
             <path>
               <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="Experiment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,7 +321,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542331555837" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542360248195" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -467,7 +466,7 @@
       <workItem from="1542177327926" duration="594000" />
       <workItem from="1542187271804" duration="6015000" />
       <workItem from="1542241556397" duration="10557000" />
-      <workItem from="1542330646717" duration="727000" />
+      <workItem from="1542330646717" duration="2895000" />
     </task>
     <task id="LOCAL-00001" summary="idea git tet">
       <created>1542010131585</created>
@@ -497,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542255915955</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="单元测试">
+      <created>1542331586091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542331586091</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -510,12 +516,16 @@
     <history-entry file="Manual_container_configuration__RotateTowLeverTest_rotate - 2018.11.16 at 09h 03m 04s.xml">
       <configuration name="Manual container configuration: RotateTowLeverTest.rotate" configurationId="ArquillianJUnit" />
     </history-entry>
+    <history-entry file="RotateTowLeverTest_rotate - 2018.11.16 at 09h 22m 48s.xml">
+      <configuration name="RotateTowLeverTest.rotate" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47613000" />
+    <option name="totallyTimeSpent" value="49781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.2707775" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.16353887" />
@@ -526,7 +536,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37583894" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37583894" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5946309" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -626,7 +636,8 @@
     <MESSAGE value="&#10;delete test" />
     <MESSAGE value="217&#10;189" />
     <MESSAGE value="旋转数组&#10;存在重复&#10;只出现一次的数字&#10;两个数组的交集||&#10;加一&#10;两数之和&#10;旋转图像" />
-    <option name="LAST_COMMIT_MESSAGE" value="旋转数组&#10;存在重复&#10;只出现一次的数字&#10;两个数组的交集||&#10;加一&#10;两数之和&#10;旋转图像" />
+    <MESSAGE value="单元测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="单元测试" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -799,18 +810,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/LeetCode/Array/RotateTowLeverTest.java" />
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RemoveDuplicatesSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/Rotate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="26" column="39" selection-start-line="24" selection-start-column="12" selection-end-line="26" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -838,20 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RotateTowLever.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/ArrayMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="48" column="5" selection-start-line="33" selection-start-column="3" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/test/LeetCode/Array/RotateTowLeverTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -864,11 +853,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="285">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RotateTowLever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" selection-start-line="20" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/ArrayMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/Rotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -941,6 +965,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

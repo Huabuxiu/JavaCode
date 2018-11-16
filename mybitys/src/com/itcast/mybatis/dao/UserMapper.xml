@@ -4,6 +4,16 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <mapper namespace="com.itcast.mybatis.dao.UserMapper">
+    
+    <select id="findUserList" parameterType="com.itcast.mybatis.po.UserQueryVo" resultType="com.itcast.mybatis.po.UserCustom">
+        select * from user where user.sex='#{userCustom.sex}' and user.username like '${userCustom.username}%'
+    </select>
+
+    <!-- 查询综合信息的总数-->
+    <select id="findUserCount" parameterType="com.itcast.mybatis.po.UserQueryVo" resultType="int">
+        select count(*) from user where user.sex=#{userCustom.sex} and user.username like '${userCustom.username}%'
+    </select>
+
     <select id="findUserById" parameterType="int" resultType="com.itcast.mybatis.po.User">
     select * from user where id = #{id}
     </select>
