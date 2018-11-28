@@ -20,29 +20,15 @@ import java.util.List;
  * @create: 2018-11-05 22:03
  **/
 public class MybatisFirst<sqlSession, fore> {
+
     public static void main(String[] args) throws IOException {
 
-        String resource = "SqlMapConfig.xml";
-        InputStream inputStream = null;
-
-        inputStream = Resources.getResourceAsStream(resource);
-        //建立会话工厂
-        SqlSessionFactory  sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
-
-//        finduserbyid();
-//        finduserbyname();
-//        User user1 = new User("王五",new Date(),"1","河南郑州");
-        // insertuser(user1);
-//       user1.setId(1);
-//      deleteUser(user1);
-
-        User user3 = new User("花不休",new Date(),"1","陕西西安");
-        user3.setId(21);
-
-        UserdaoImpl userdao = new UserdaoImpl(sqlSessionFactory);
-        userdao.insertUser(user3);
-        User user2 = userdao.findUserById(21);
-        System.out.printf(String.valueOf(user2));
+        finduserbyid();
+        finduserbyname();
+        User user1 = new User("王五",new Date(),"1","河南郑州");
+        insertuser(user1);
+        user1.setId(1);
+        deleteUser(user1);
 
     }
 

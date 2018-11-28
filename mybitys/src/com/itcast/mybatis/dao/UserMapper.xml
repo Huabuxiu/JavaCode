@@ -6,7 +6,17 @@
 <mapper namespace="com.itcast.mybatis.dao.UserMapper">
     
     <select id="findUserList" parameterType="com.itcast.mybatis.po.UserQueryVo" resultType="com.itcast.mybatis.po.UserCustom">
-        select * from user where user.sex='#{userCustom.sex}' and user.username like '${userCustom.username}%'
+        select * from user
+        <where>
+            <if test="userCustom!=null">
+                <if test="userCustom.id != null">
+                    AND user.sex=#{userCustom.sex}
+                </if>
+                <if test="userCustom.username!=null and userCustom.username!=''">
+                    AND user.username LIKE '${userCustom.username}%'
+                </if>
+            </if>
+        </where>
     </select>
 
     <!-- 查询综合信息的总数-->

@@ -4,17 +4,33 @@
     <bookmark url="file://$PROJECT_DIR$/src/LeetCode/Array" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/UserCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/UserQueryVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/test/com/itcast/mybatis/dao/DaomainTest.java" afterDir="false" />
+    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="add">
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/exp_4/GraduatestudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/exp_4/SphereTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/exp_4/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/exp_4/UndergraduateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/exp_5/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/exp_5/managerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_4/Graduatestudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_4/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_4/Undergraduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_5/ClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_5/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_5/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_5/manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources/a5d82075-1c0a-490a-a687-c131175782bf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources/a5d82075-1c0a-490a-a687-c131175782bf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/mybitys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/mybitys.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/out/production/mybitys/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/out/production/mybitys/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/out/production/mybitys/com/itcast/mybatis/first/mybatis/MybatisFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/out/production/mybitys/com/itcast/mybatis/first/mybatis/MybatisFirst.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/first/mybatis/MybatisFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/first/mybatis/MybatisFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/UserCustom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/UserCustom.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,36 +99,38 @@
     <session id="-1977732262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="24" />
+          <entry key="java" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2635" />
-          <entry key="txt" value="120" />
+          <entry key="java" value="3492" />
+          <entry key="txt" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2635" />
-          <entry key="PLAIN_TEXT" value="120" />
+          <entry key="JAVA" value="3492" />
+          <entry key="PLAIN_TEXT" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -124,76 +142,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/ArrayMain.java">
+        <entry file="file://$PROJECT_DIR$/src/exp_5/ClassName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1014">
-              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <state relative-caret-position="78">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RemoveDuplicatesSortedArray.java">
+        <entry file="file://$PROJECT_DIR$/src/exp_5/Company.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RotateTowLever.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" selection-start-line="20" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/Rotate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="234">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java">
+        <entry file="file://$PROJECT_DIR$/src/Test/exp_5/CompanyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/MaxProfit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/PlusOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="24" column="23" selection-start-line="21" selection-start-column="11" selection-end-line="24" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/ContainsDuplicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="101">
+              <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -205,6 +185,7 @@
       <list>
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -251,6 +232,22 @@
         <option value="$PROJECT_DIR$/src/Test/test/LeetCode/Array/RotateTowLeverTest.java" />
         <option value="$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/exp_4/Sphere.java" />
+        <option value="$PROJECT_DIR$/src/exp_4/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Test/exp_4/SphereTest.java" />
+        <option value="$PROJECT_DIR$/src/exp_4/Student.java" />
+        <option value="$PROJECT_DIR$/src/exp_4/Graduatestudent.java" />
+        <option value="$PROJECT_DIR$/src/exp_4/Undergraduate.java" />
+        <option value="$PROJECT_DIR$/src/Test/exp_4/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/exp_4/UndergraduateTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/exp_4/GraduatestudentTest.java" />
+        <option value="$PROJECT_DIR$/src/exp_5/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Test/exp_5/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/exp_5/managerTest.java" />
+        <option value="$PROJECT_DIR$/src/exp_5/manager.java" />
+        <option value="$PROJECT_DIR$/src/exp_5/ClassName.java" />
+        <option value="$PROJECT_DIR$/src/exp_5/Company.java" />
+        <option value="$PROJECT_DIR$/src/Test/exp_5/CompanyTest.java" />
       </list>
     </option>
   </component>
@@ -268,9 +265,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -278,19 +274,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Experiment" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Experiment" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,12 +290,28 @@
               <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="Experiment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="exp_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="exp_5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,7 +320,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542360248195" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543368662684" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -336,6 +335,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exp_5" />
+      <recent name="exp_4" />
+      <recent name="LeetCode.Tree" />
       <recent name="LeetCode.Array" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -357,7 +359,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RotateTowLeverTest.rotate">
+  <component name="RunManager" selected="JUnit.CompanyTest.testGetClassName">
     <configuration name="ArrayMain" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Array.ArrayMain" />
       <module name="Experiment" />
@@ -371,56 +373,81 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.List.ListMain" />
+    <configuration name="CompanyTest.testGetClassName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.List.*" />
+          <option name="PATTERN" value="exp_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="exp_5" />
+      <option name="MAIN_CLASS_NAME" value="exp_5.CompanyTest" />
+      <option name="METHOD_NAME" value="testGetClassName" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LWP.TestThread3" />
+    <configuration name="EmployeeTest.testToString (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LWP.*" />
+          <option name="PATTERN" value="exp_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="exp_5" />
+      <option name="MAIN_CLASS_NAME" value="exp_5.EmployeeTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LWP.TestThread4" />
+    <configuration name="EmployeeTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LWP.*" />
+          <option name="PATTERN" value="test.exp_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="exp_5" />
+      <option name="MAIN_CLASS_NAME" value="test.exp_5.EmployeeTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateTowLeverTest.rotate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="managerTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Array.*" />
+          <option name="PATTERN" value="exp_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCode.Array" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Array.RotateTowLeverTest" />
-      <option name="METHOD_NAME" value="rotate" />
+      <option name="PACKAGE_NAME" value="exp_5" />
+      <option name="MAIN_CLASS_NAME" value="exp_5.managerTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="managerTest.toString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exp_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exp_5" />
+      <option name="MAIN_CLASS_NAME" value="exp_5.managerTest" />
+      <option name="METHOD_NAME" value="toString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -428,17 +455,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayMain" />
-      <item itemvalue="Application.TestThread3" />
-      <item itemvalue="Application.TestThread4" />
-      <item itemvalue="Application.ListMain" />
-      <item itemvalue="JUnit.RotateTowLeverTest.rotate" />
+      <item itemvalue="JUnit.EmployeeTest.testToString" />
+      <item itemvalue="JUnit.EmployeeTest.testToString (1)" />
+      <item itemvalue="JUnit.managerTest.toString" />
+      <item itemvalue="JUnit.managerTest.testToString" />
+      <item itemvalue="JUnit.CompanyTest.testGetClassName" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RotateTowLeverTest.rotate" />
-        <item itemvalue="Application.ListMain" />
-        <item itemvalue="Application.TestThread4" />
-        <item itemvalue="Application.TestThread3" />
+        <item itemvalue="JUnit.CompanyTest.testGetClassName" />
+        <item itemvalue="JUnit.EmployeeTest.testToString (1)" />
+        <item itemvalue="JUnit.managerTest.testToString" />
+        <item itemvalue="JUnit.managerTest.toString" />
+        <item itemvalue="JUnit.EmployeeTest.testToString" />
       </list>
     </recent_temporary>
   </component>
@@ -467,6 +496,10 @@
       <workItem from="1542187271804" duration="6015000" />
       <workItem from="1542241556397" duration="10557000" />
       <workItem from="1542330646717" duration="2895000" />
+      <workItem from="1542389177061" duration="580000" />
+      <workItem from="1542611337205" duration="2944000" />
+      <workItem from="1543285191239" duration="78000" />
+      <workItem from="1543367126791" duration="1362000" />
     </task>
     <task id="LOCAL-00001" summary="idea git tet">
       <created>1542010131585</created>
@@ -507,27 +540,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Manual_container_configuration__RotateTowLeverTest_rotate - 2018.11.16 at 08h 58m 33s.xml">
-      <configuration name="Manual container configuration: RotateTowLeverTest.rotate" configurationId="ArquillianJUnit" />
+    <history-entry file="SphereTest - 2018.11.19 at 15h 55m 26s.xml">
+      <configuration name="SphereTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Manual_container_configuration__RotateTowLeverTest_rotate - 2018.11.16 at 08h 59m 00s.xml">
-      <configuration name="Manual container configuration: RotateTowLeverTest.rotate" configurationId="ArquillianJUnit" />
+    <history-entry file="UndergraduateTest - 2018.11.19 at 15h 57m 14s.xml">
+      <configuration name="UndergraduateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Manual_container_configuration__RotateTowLeverTest_rotate - 2018.11.16 at 09h 03m 04s.xml">
-      <configuration name="Manual container configuration: RotateTowLeverTest.rotate" configurationId="ArquillianJUnit" />
+    <history-entry file="GraduatestudentTest_study - 2018.11.19 at 15h 57m 22s.xml">
+      <configuration name="GraduatestudentTest.study" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateTowLeverTest_rotate - 2018.11.16 at 09h 22m 48s.xml">
-      <configuration name="RotateTowLeverTest.rotate" configurationId="JUnit" />
+    <history-entry file="EmployeeTest_testToString - 2018.11.28 at 09h 16m 46s.xml">
+      <configuration name="EmployeeTest.testToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testToString_(1) - 2018.11.28 at 09h 17m 13s.xml">
+      <configuration name="EmployeeTest.testToString (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testToString_(1) - 2018.11.28 at 09h 17m 45s.xml">
+      <configuration name="EmployeeTest.testToString (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="managerTest_testToString - 2018.11.28 at 09h 20m 14s.xml">
+      <configuration name="managerTest.testToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="managerTest_testToString - 2018.11.28 at 09h 21m 01s.xml">
+      <configuration name="managerTest.testToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="managerTest_testToString - 2018.11.28 at 09h 21m 23s.xml">
+      <configuration name="managerTest.testToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_testToString_(1) - 2018.11.28 at 09h 23m 41s.xml">
+      <configuration name="EmployeeTest.testToString (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49781000" />
+    <option name="totallyTimeSpent" value="54745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.2707775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.19034852" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.16353887" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -536,7 +587,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37583894" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.48322147" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5946309" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -644,38 +695,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/exp_1.StudentWeight">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>exp_1.StudentWeight</OriginalElement>
-          <nodes>
-            <node x="" y="">exp_1.StudentWeight</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="68.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="168" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="139" column="5" lean-forward="true" selection-start-line="137" selection-start-column="11" selection-end-line="139" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exp_1/StudentWeight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -810,10 +829,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/test/LeetCode/Array/RotateTowLeverTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/ArrayMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RemoveDuplicatesSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/Rotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RotateTowLever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" selection-start-line="20" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -835,64 +890,207 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/SymmetricTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/TowSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_4/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="26" selection-end-line="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/test/LeetCode/Array/RotateTowLeverTest.java">
+    <entry file="file://$PROJECT_DIR$/src/exp_4/Sphere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="20" selection-end-line="19" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_4/SphereTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_4/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_4/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_4/Graduatestudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="41" selection-end-line="26" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_4/GraduatestudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="75" column="34" lean-forward="true" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="17" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RotateTowLever.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" selection-start-line="20" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/ArrayMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1014">
-          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java">
+    <entry file="file://$PROJECT_DIR$/src/exp_4/Undergraduate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <caret line="17" column="27" selection-end-line="37" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/Rotate.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_4/UndergraduateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="390">
+          <caret line="17" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/test/exp_5/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_5/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="19" lean-forward="true" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_5/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_5/manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="23" column="34" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_5/managerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_5/ClassName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_5/Company.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_5/CompanyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
         </state>
       </provider>
     </entry>
