@@ -1,36 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/LeetCode/Array" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" line="11" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/exp_4/GraduatestudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/exp_4/SphereTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/exp_4/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/exp_4/UndergraduateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/exp_5/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/exp_5/managerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_4/Graduatestudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_4/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_4/Undergraduate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_5/ClassName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_5/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_5/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_5/manager.java" afterDir="false" />
+    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Class/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/programmertest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/String/FirstUniqChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/LeetCode/String/FirstUniqCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/exp_6/addArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/exp_6/stringcountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_6/addArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_6/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_6/stringcount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_7/Datecount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources/a5d82075-1c0a-490a-a687-c131175782bf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/.idea/dataSources/a5d82075-1c0a-490a-a687-c131175782bf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JDBCdome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCdome/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/out/production/mybitys/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/out/production/mybitys/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/out/production/mybitys/com/itcast/mybatis/first/mybatis/MybatisFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/out/production/mybitys/com/itcast/mybatis/first/mybatis/MybatisFirst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/first/mybatis/MybatisFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/first/mybatis/MybatisFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/UserCustom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/UserCustom.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,38 +86,45 @@
     <session id="-1977732262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="49" />
+          <entry key="Programmer" value="1" />
+          <entry key="class" value="1" />
+          <entry key="java" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="49" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="68" />
+          <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3492" />
-          <entry key="txt" value="123" />
+          <entry key="java" value="4981" />
+          <entry key="txt" value="129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3492" />
-          <entry key="PLAIN_TEXT" value="123" />
+          <entry key="JAVA" value="4981" />
+          <entry key="PLAIN_TEXT" value="129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -141,39 +135,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exp_5/ClassName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exp_5/Company.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-              <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test/exp_5/CompanyTest.java">
+        <entry file="file://$PROJECT_DIR$/src/exp_7/Datecount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+            <state relative-caret-position="208">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -184,8 +150,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -201,11 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Equation/Equation.java" />
-        <option value="$PROJECT_DIR$/src/exp_1/StudentWeight.java" />
-        <option value="$PROJECT_DIR$/src/File/FileDemo.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Solution.java" />
-        <option value="$PROJECT_DIR$/src/isPrime/isPrime.java" />
         <option value="$PROJECT_DIR$/src/TowSum.java" />
         <option value="$PROJECT_DIR$/src/Equation/ClassTest.java" />
         <option value="$PROJECT_DIR$/src/Equation/ClassDemo1.java" />
@@ -231,7 +192,6 @@
         <option value="$PROJECT_DIR$/Test/LeetCode/Array/RotateTowLeverTest.java" />
         <option value="$PROJECT_DIR$/src/Test/test/LeetCode/Array/RotateTowLeverTest.java" />
         <option value="$PROJECT_DIR$/src/Test/LeetCode/Array/RotateTowLeverTest.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/exp_4/Sphere.java" />
         <option value="$PROJECT_DIR$/src/exp_4/Circle.java" />
         <option value="$PROJECT_DIR$/src/Test/exp_4/SphereTest.java" />
@@ -248,6 +208,16 @@
         <option value="$PROJECT_DIR$/src/exp_5/ClassName.java" />
         <option value="$PROJECT_DIR$/src/exp_5/Company.java" />
         <option value="$PROJECT_DIR$/src/Test/exp_5/CompanyTest.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/String/FirstUniqChar.java" />
+        <option value="$PROJECT_DIR$/src/Test/LeetCode/String/FirstUniqCharTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/exp_6/addArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/exp_6/addArray.java" />
+        <option value="$PROJECT_DIR$/src/Test/exp_6/stringcountTest.java" />
+        <option value="$PROJECT_DIR$/src/exp_6/main.java" />
+        <option value="$PROJECT_DIR$/src/exp_6/stringcount.java" />
+        <option value="$PROJECT_DIR$/src/Class/Programmer.java" />
+        <option value="$PROJECT_DIR$/src/Class/programmertest.java" />
       </list>
     </option>
   </component>
@@ -264,9 +234,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1089" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -286,32 +257,13 @@
               <item name="Experiment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exp_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="exp_5" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,7 +272,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543368662684" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545008163583" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -335,10 +287,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exp_6" />
+      <recent name="LeetCode.String" />
       <recent name="exp_5" />
       <recent name="exp_4" />
       <recent name="LeetCode.Tree" />
-      <recent name="LeetCode.Array" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -359,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CompanyTest.testGetClassName">
+  <component name="RunManager" selected="Application.main">
     <configuration name="ArrayMain" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Array.ArrayMain" />
       <module name="Experiment" />
@@ -373,81 +326,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompanyTest.testGetClassName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exp_6.main" />
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exp_5.*" />
+          <option name="PATTERN" value="exp_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exp_5" />
-      <option name="MAIN_CLASS_NAME" value="exp_5.CompanyTest" />
-      <option name="METHOD_NAME" value="testGetClassName" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstUniqCharTest.firstUniqChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode.String" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.String.FirstUniqCharTest" />
+      <option name="METHOD_NAME" value="firstUniqChar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.testToString (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="addArrayTest.merge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exp_5.*" />
+          <option name="PATTERN" value="exp_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exp_5" />
-      <option name="MAIN_CLASS_NAME" value="exp_5.EmployeeTest" />
-      <option name="METHOD_NAME" value="testToString" />
+      <option name="PACKAGE_NAME" value="exp_6" />
+      <option name="MAIN_CLASS_NAME" value="exp_6.addArrayTest" />
+      <option name="METHOD_NAME" value="merge" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="stringcountTest.Stringcountfromkeyboard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.exp_5.*" />
+          <option name="PATTERN" value="exp_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exp_5" />
-      <option name="MAIN_CLASS_NAME" value="test.exp_5.EmployeeTest" />
-      <option name="METHOD_NAME" value="testToString" />
+      <option name="PACKAGE_NAME" value="exp_6" />
+      <option name="MAIN_CLASS_NAME" value="exp_6.stringcountTest" />
+      <option name="METHOD_NAME" value="Stringcountfromkeyboard" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="managerTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="stringcountTest.stringCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exp_5.*" />
+          <option name="PATTERN" value="exp_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exp_5" />
-      <option name="MAIN_CLASS_NAME" value="exp_5.managerTest" />
-      <option name="METHOD_NAME" value="testToString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="managerTest.toString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Experiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exp_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exp_5" />
-      <option name="MAIN_CLASS_NAME" value="exp_5.managerTest" />
-      <option name="METHOD_NAME" value="toString" />
+      <option name="PACKAGE_NAME" value="exp_6" />
+      <option name="MAIN_CLASS_NAME" value="exp_6.stringcountTest" />
+      <option name="METHOD_NAME" value="stringCount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -455,19 +405,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayMain" />
-      <item itemvalue="JUnit.EmployeeTest.testToString" />
-      <item itemvalue="JUnit.EmployeeTest.testToString (1)" />
-      <item itemvalue="JUnit.managerTest.toString" />
-      <item itemvalue="JUnit.managerTest.testToString" />
-      <item itemvalue="JUnit.CompanyTest.testGetClassName" />
+      <item itemvalue="JUnit.FirstUniqCharTest.firstUniqChar" />
+      <item itemvalue="JUnit.addArrayTest.merge" />
+      <item itemvalue="JUnit.stringcountTest.stringCount" />
+      <item itemvalue="JUnit.stringcountTest.Stringcountfromkeyboard" />
+      <item itemvalue="Application.main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CompanyTest.testGetClassName" />
-        <item itemvalue="JUnit.EmployeeTest.testToString (1)" />
-        <item itemvalue="JUnit.managerTest.testToString" />
-        <item itemvalue="JUnit.managerTest.toString" />
-        <item itemvalue="JUnit.EmployeeTest.testToString" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.stringcountTest.stringCount" />
+        <item itemvalue="JUnit.stringcountTest.Stringcountfromkeyboard" />
+        <item itemvalue="JUnit.addArrayTest.merge" />
+        <item itemvalue="JUnit.FirstUniqCharTest.firstUniqChar" />
       </list>
     </recent_temporary>
   </component>
@@ -499,7 +449,12 @@
       <workItem from="1542389177061" duration="580000" />
       <workItem from="1542611337205" duration="2944000" />
       <workItem from="1543285191239" duration="78000" />
-      <workItem from="1543367126791" duration="1362000" />
+      <workItem from="1543367126791" duration="7180000" />
+      <workItem from="1543891543750" duration="10000" />
+      <workItem from="1543895289545" duration="75000" />
+      <workItem from="1544575409398" duration="3887000" />
+      <workItem from="1544708978489" duration="854000" />
+      <workItem from="1545007925385" duration="223000" />
     </task>
     <task id="LOCAL-00001" summary="idea git tet">
       <created>1542010131585</created>
@@ -536,49 +491,56 @@
       <option name="project" value="LOCAL" />
       <updated>1542331586091</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add exp_5">
+      <created>1543368695270</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543368695270</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SphereTest - 2018.11.19 at 15h 55m 26s.xml">
-      <configuration name="SphereTest" configurationId="JUnit" />
+    <history-entry file="addArrayTest_merge - 2018.12.12 at 09h 26m 23s.xml">
+      <configuration name="addArrayTest.merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UndergraduateTest - 2018.11.19 at 15h 57m 14s.xml">
-      <configuration name="UndergraduateTest" configurationId="JUnit" />
+    <history-entry file="addArrayTest_merge - 2018.12.12 at 09h 27m 04s.xml">
+      <configuration name="addArrayTest.merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GraduatestudentTest_study - 2018.11.19 at 15h 57m 22s.xml">
-      <configuration name="GraduatestudentTest.study" configurationId="JUnit" />
+    <history-entry file="addArrayTest_merge - 2018.12.12 at 09h 27m 11s.xml">
+      <configuration name="addArrayTest.merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeTest_testToString - 2018.11.28 at 09h 16m 46s.xml">
-      <configuration name="EmployeeTest.testToString" configurationId="JUnit" />
+    <history-entry file="addArrayTest_merge - 2018.12.12 at 09h 27m 34s.xml">
+      <configuration name="addArrayTest.merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeTest_testToString_(1) - 2018.11.28 at 09h 17m 13s.xml">
-      <configuration name="EmployeeTest.testToString (1)" configurationId="JUnit" />
+    <history-entry file="stringcountTest_stringCount - 2018.12.12 at 09h 36m 12s.xml">
+      <configuration name="stringcountTest.stringCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeTest_testToString_(1) - 2018.11.28 at 09h 17m 45s.xml">
-      <configuration name="EmployeeTest.testToString (1)" configurationId="JUnit" />
+    <history-entry file="stringcountTest_stringCount - 2018.12.12 at 09h 39m 15s.xml">
+      <configuration name="stringcountTest.stringCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="managerTest_testToString - 2018.11.28 at 09h 20m 14s.xml">
-      <configuration name="managerTest.testToString" configurationId="JUnit" />
+    <history-entry file="stringcountTest_Stringcountfromkeyboard - 2018.12.12 at 09h 40m 59s.xml">
+      <configuration name="stringcountTest.Stringcountfromkeyboard" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="managerTest_testToString - 2018.11.28 at 09h 21m 01s.xml">
-      <configuration name="managerTest.testToString" configurationId="JUnit" />
+    <history-entry file="stringcountTest_Stringcountfromkeyboard - 2018.12.12 at 09h 41m 45s.xml">
+      <configuration name="stringcountTest.Stringcountfromkeyboard" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="managerTest_testToString - 2018.11.28 at 09h 21m 23s.xml">
-      <configuration name="managerTest.testToString" configurationId="JUnit" />
+    <history-entry file="stringcountTest_stringCount - 2018.12.12 at 09h 43m 46s.xml">
+      <configuration name="stringcountTest.stringCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeTest_testToString_(1) - 2018.11.28 at 09h 23m 41s.xml">
-      <configuration name="EmployeeTest.testToString (1)" configurationId="JUnit" />
+    <history-entry file="stringcountTest_stringCount - 2018.12.12 at 09h 44m 17s.xml">
+      <configuration name="stringcountTest.stringCount" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54745000" />
+    <option name="totallyTimeSpent" value="65625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.19034852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.20375335" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.16353887" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -587,14 +549,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.48322147" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5946309" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48456377" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45369127" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.42684564" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5302013" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -688,119 +650,14 @@
     <MESSAGE value="217&#10;189" />
     <MESSAGE value="旋转数组&#10;存在重复&#10;只出现一次的数字&#10;两个数组的交集||&#10;加一&#10;两数之和&#10;旋转图像" />
     <MESSAGE value="单元测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="单元测试" />
+    <MESSAGE value="add exp_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exp_5" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/exp_1/StudentWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/File/FileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Equation/Equation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isPrime/isPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TowSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class/ClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class/ClassDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LWP/Hero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LWP/TestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LWP/KillThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LWP/TestThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LWP/Battle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LWP/TestThread3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LWP/TestThread4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/List/gittest.java" />
     <entry file="file://$PROJECT_DIR$/src/LeetCode/List/ListMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1033">
@@ -858,13 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RotateTowLever.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -918,11 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="11" column="26" selection-end-line="29" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -930,12 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="20" selection-end-line="19" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,16 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -974,12 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="41" selection-end-line="26" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -994,16 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="17" column="27" selection-end-line="37" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,21 +827,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/test/exp_5/EmployeeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/test/exp_5/EmployeeTest.java" />
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
-          <folding>
-            <element signature="e#10225#10226#0" expanded="true" />
-            <element signature="e#10308#10309#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1043,9 +846,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1063,34 +863,172 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exp_5/ClassName.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_5/CompanyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="702">
+          <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exp_5/Company.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="156">
+          <caret line="6" column="17" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_5/ClassName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/function/BiConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/FirstUniqCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/String/FirstUniqChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_6/addArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="16" column="9" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_6/addArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="11" column="8" selection-start-line="8" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_6/stringcount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="11" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Class.Programmer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Class.Programmer</OriginalElement>
+          <nodes>
+            <node x="" y="">Class.Programmer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="61.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/exp_6/stringcountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_2/lineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_6/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/Programmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/exp_5/CompanyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Class/ClassDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        <state relative-caret-position="234">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/ClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/programmertest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_7/Datecount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
