@@ -5,19 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/exp_7/DatecountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/exp_7/systemuseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_7/systemuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/orderscustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/test/com/itcast/mybatis/dao/ordersCustomMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/String/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/LeetCode/String/AnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_exm/findnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exp_exm/numbercheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/items.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Tree/TreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Tree/TreeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exp_7/Datecount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exp_7/Datecount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Experiment/LeetCode/Tree/TreeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Experiment/LeetCode/Tree/TreeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/out/production/mybitys/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/out/production/mybitys/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/out/production/mybitys/com/itcast/mybatis/po/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/out/production/mybitys/com/itcast/mybatis/po/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/test/com/itcast/mybatis/dao/ordersCustomMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/test/com/itcast/mybatis/dao/ordersCustomMapperTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,44 +91,44 @@
     <session id="-1977732262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Programmer" value="1" />
           <entry key="class" value="1" />
-          <entry key="java" value="75" />
+          <entry key="java" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="75" />
+          <entry key="JAVA" value="81" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5583" />
+          <entry key="java" value="6119" />
           <entry key="txt" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5583" />
+          <entry key="JAVA" value="6119" />
           <entry key="PLAIN_TEXT" value="130" />
         </counts>
       </usages-collector>
@@ -136,18 +141,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exp_7/systemuse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test/exp_7/systemuseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="198">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="e#149#150#0" expanded="true" />
@@ -157,11 +153,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="156">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exp_exm/numbercheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exp_exm/findnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/String/Anagram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exp_6/stringcount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/AnagramTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -169,8 +210,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/TreeMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -178,8 +219,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/InorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="624">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -200,8 +244,8 @@
       <list>
         <option value="Arquillian JUnit Test Class" />
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -224,11 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LWP/KillThread.java" />
-        <option value="$PROJECT_DIR$/src/LWP/TestThread2.java" />
-        <option value="$PROJECT_DIR$/src/LWP/Battle.java" />
-        <option value="$PROJECT_DIR$/src/LWP/TestThread3.java" />
-        <option value="$PROJECT_DIR$/src/LWP/TestThread4.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/List/ListMain.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/List/HasCycle.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/RemoveDuplicatesSortedArray.java" />
@@ -273,8 +312,13 @@
         <option value="$PROJECT_DIR$/src/exp_7/Datecount.java" />
         <option value="$PROJECT_DIR$/src/exp_7/systemuse.java" />
         <option value="$PROJECT_DIR$/src/Test/exp_7/systemuseTest.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Tree/TreeMain.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java" />
+        <option value="$PROJECT_DIR$/src/exp_7/numbercheck.java" />
+        <option value="$PROJECT_DIR$/src/exp_exm/numbercheck.java" />
+        <option value="$PROJECT_DIR$/src/exp_exm/findnum.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/String/Anagram.java" />
+        <option value="$PROJECT_DIR$/src/Test/LeetCode/String/AnagramTest.java" />
       </list>
     </option>
   </component>
@@ -302,6 +346,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,6 +365,12 @@
               <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="Experiment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exp_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -325,15 +378,37 @@
               <item name="Experiment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,7 +417,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545120615998" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547643310287" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -357,9 +432,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="LeetCode.String" />
       <recent name="exp_7" />
       <recent name="exp_6" />
-      <recent name="LeetCode.String" />
       <recent name="exp_5" />
       <recent name="exp_4" />
     </key>
@@ -382,7 +457,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeMain">
+  <component name="RunManager" selected="JUnit.AnagramTest.isAnagram">
     <configuration name="ArrayMain" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Array.ArrayMain" />
       <module name="Experiment" />
@@ -409,15 +484,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exp_6.main" />
+    <configuration name="numbercheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exp_exm.numbercheck" />
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exp_6.*" />
+          <option name="PATTERN" value="exp_exm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramTest.isAnagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode.String" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.String.AnagramTest" />
+      <option name="METHOD_NAME" value="isAnagram" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -426,7 +517,7 @@
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exp_7.*" />
+          <option name="PATTERN" value="exp_exm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -438,27 +529,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringcountTest.stringCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Experiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exp_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exp_6" />
-      <option name="MAIN_CLASS_NAME" value="exp_6.stringcountTest" />
-      <option name="METHOD_NAME" value="stringCount" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="systemuseTest.showsystemvaleu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exp_7.*" />
+          <option name="PATTERN" value="exp_exm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,19 +547,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayMain" />
-      <item itemvalue="JUnit.stringcountTest.stringCount" />
-      <item itemvalue="Application.main" />
       <item itemvalue="JUnit.DatecountTest.count" />
       <item itemvalue="JUnit.systemuseTest.showsystemvaleu" />
       <item itemvalue="Application.TreeMain" />
+      <item itemvalue="Application.numbercheck" />
+      <item itemvalue="JUnit.AnagramTest.isAnagram" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AnagramTest.isAnagram" />
+        <item itemvalue="Application.numbercheck" />
         <item itemvalue="Application.TreeMain" />
         <item itemvalue="JUnit.systemuseTest.showsystemvaleu" />
         <item itemvalue="JUnit.DatecountTest.count" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="JUnit.stringcountTest.stringCount" />
       </list>
     </recent_temporary>
   </component>
@@ -523,6 +598,9 @@
       <workItem from="1544708978489" duration="854000" />
       <workItem from="1545007925385" duration="3505000" />
       <workItem from="1545119717894" duration="1509000" />
+      <workItem from="1545190980135" duration="283000" />
+      <workItem from="1546596766947" duration="4890000" />
+      <workItem from="1547637377641" duration="1433000" />
     </task>
     <task id="LOCAL-00001" summary="idea git tet">
       <created>1542010131585</created>
@@ -577,12 +655,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="addArrayTest_merge - 2018.12.12 at 09h 27m 34s.xml">
-      <configuration name="addArrayTest.merge" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="stringcountTest_stringCount - 2018.12.12 at 09h 36m 12s.xml">
-      <configuration name="stringcountTest.stringCount" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="stringcountTest_stringCount - 2018.12.12 at 09h 39m 15s.xml">
       <configuration name="stringcountTest.stringCount" configurationId="JUnit" />
     </history-entry>
@@ -607,15 +679,21 @@
     <history-entry file="systemuseTest_showsystemvaleu - 2018.12.17 at 13h 29m 04s.xml">
       <configuration name="systemuseTest.showsystemvaleu" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AnagramTest_isAnagram - 2019.01.16 at 19h 29m 30s.xml">
+      <configuration name="AnagramTest.isAnagram" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramTest_isAnagram - 2019.01.16 at 19h 29m 52s.xml">
+      <configuration name="AnagramTest.isAnagram" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70403000" />
+    <option name="totallyTimeSpent" value="77009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-1088" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.1380597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.14285715" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.16353887" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -624,7 +702,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29032257" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.58064514" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45369127" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -646,7 +724,7 @@
       <window_info anchor="right" x="0" y="0" width="337" height="678" id="Documentation" order="9" side_tool="true" weight="0.3297587" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.2707775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.14285715" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.16353887" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -655,16 +733,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37583894" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5946309" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.58064514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45369127" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.42684564" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5302013" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -734,34 +812,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/ArrayMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1014">
-          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RemoveDuplicatesSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/Rotate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/RotateTowLever.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" selection-start-line="20" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/MaxProfit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -931,13 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/FirstUniqCharTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/String/FirstUniqChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -963,13 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="11" column="8" selection-start-line="8" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exp_6/stringcount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="11" selection-end-line="36" />
         </state>
       </provider>
     </entry>
@@ -1016,24 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1062,9 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="7" column="22" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1084,7 +1099,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/exp_7/systemuseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="198">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="e#149#150#0" expanded="true" />
@@ -1093,10 +1108,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_exm/numbercheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/TreeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/InorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="624">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1107,17 +1146,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/TreeMain.java">
+    <entry file="file://$PROJECT_DIR$/src/exp_exm/findnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/FirstUniqCharTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="275">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/AnagramTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/String/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_6/stringcount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>

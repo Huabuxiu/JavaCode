@@ -4,7 +4,96 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <mapper namespace="com.itcast.mybatis.dao.ordersCustomMapper">
-    
+
+    <!-- 查询订单明细的resultmap-->
+<resultMap id="findOrdersAndOrderDetailResultMap" type="com.itcast.mybatis.po.orders">
+    <!-- 订单信息 -->
+    <!-- 用户信息 -->
+    <id column="id" property="id"/>
+    <result column="user_id" property="user_id"/>
+    <result column="nubmer" property="number"/>
+    <result column="createtime" property="createtime"/>
+    <result column="note" property="note"/>
+
+
+    <!--配置映射关联的用户信息-->
+    <!--association:用于关联查询"单个"对象的信息
+    column:查询结果所对应的列
+    property：要关联的用户信息映射到Orders的哪个属性-->
+    <association property="user" javaType="com.itcast.mybatis.po.User">
+        <id column="user_id" property="id"/>
+        <result column="username" property="username"/>
+        <result column="sex" property="sex"/>
+        <result column="address" property="address"/>
+        <!--<result column="username" property=""/>-->
+    </association>
+
+    <!-- 订单明细信息 -->
+
+    <!--collection:对关联查询到的多条记录映射到集合对象中去-->
+    <collection property="orderDetails" ofType="com.itcast.mybatis.po.OrderDetail">
+
+        <id column="orderdetail_id" property="id"/>
+        <result column="items_id" property="items_id"/>
+        <result column="items_num" property="items_num"/>
+        <result column="items_num" property="items_num"/>
+    </collection>
+
+</resultMap>
+
+
+    <!--查询用户和购买商品ResultMap-->
+    <resultMap id="findUserAndItemsResultMap" type="com.itcast.mybatis.po.User">
+        <id column="user_id" property="id"/>
+        <result column="username" property="username"/>
+        <result column="sex" property="sex"/>
+        <result column="address" property="address"/>
+
+        <!--用户创建的订单信息-->
+        <collection property="ordersList" ofType="com.itcast.mybatis.po.orders">
+            <id column="id" property="id"/>
+            <result column="user_id" property="user_id"/>
+            <result column="nubmer" property="number"/>
+            <result column="createtime" property="createtime"/>
+            <result column="note" property="note"/>
+
+            <!--一个订单对应多个明细-->
+
+            <collection property="orderDetails" ofType="com.itcast.mybatis.po.OrderDetail">
+                <id column="orderdetail_id" property="id"/>
+                <result column="items_id" property="items_id"/>
+                <result column="items_num" property="items_num"/>
+                <result column="items_num" property="items_num"/>
+
+                <!--一个订单对应一个明细 -->
+                <association property="items" javaType="com.itcast.mybatis.po.items">
+                    <result column="items_name" property="name"/>
+                    <result column="items_detail" property="detail"/>
+                    <result column="items_price" property="price"/>
+                </association>
+
+            </collection>
+
+        </collection>
+
+    </resultMap>
+
+
+    <!--延迟加载的ResultMap-->
+<resultMap id="OrdersUserLazyLodingResultMap" type="com.itcast.mybatis.po.orders">
+    <id column="id" property="id"/>
+    <result column="user_id" property="user_id"/>
+    <result column="nubmer" property="number"/>
+    <result column="createtime" property="createtime"/>
+    <result column="note" property="note"/>
+<!--对用户的延迟加载-->
+    <association property="user" javaType="com.itcast.mybatis.po.User"
+                 select="com.itcast.mybatis.dao.UserMapper.findUserById" column="user_id">
+
+    </association>
+
+</resultMap>
+
     <!--查询订单关联插叙用户信息-->
     <select id="findOrdersUser"  resultType="com.itcast.mybatis.po.orderscustom">
         select
@@ -14,4 +103,43 @@
                user.address
         FROM orders,user where orders.user_id = user.id;
     </select>
+
+    <select id="findOrdersAndOrderDetailResultMap"  resultMap="findOrdersAndOrderDetailResultMap">
+    select
+            orders.*,
+            user.username,
+            user.sex,
+            user.address,
+            orderdetail.items_id,
+            orderdetail.items_num,
+            orderdetail.orders_id
+    FROM orders,user,orderdetail
+    where orders.user_id = user.id AND orderdetail.orders_id = orders.id;
+
+    </select>
+
+
+    <!--查询用户和用户所购买的商品-->
+    <select id="findUserAndItemsResultMap"  resultMap="findUserAndItemsResultMap">
+        select
+           orders.*,
+           user.username,
+           user.sex,
+           user.address,
+           orderdetail.id orderdetail_id,
+           orderdetail.items_id,
+           orderdetail.items_num,
+           orderdetail.orders_id,
+           items.name items_name,
+           items.detail items_detail,
+           items.price items_price
+            FROM orders,user,orderdetail,items
+            where orders.user_id = user.id AND orderdetail.orders_id = orders.id and orderdetail.items_id = items.id;
+    </select>
+
+
+    <!--查询订单相关联查询用户，用户信息延迟加载-->
+<select id="findOrdersUserLazyLoding" resultMap="OrdersUserLazyLodingResultMap">
+      SELECT  * from orders;
+</select>
 </mapper>

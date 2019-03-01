@@ -3,11 +3,23 @@
         PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
+
+    <settings>
+        <!--打开延迟加载的开关-->
+        <setting name="lazyLoadingEnabled" value="true"/>
+        <!--按需加载-->
+        <setting name="aggressiveLazyLoading" value="false"/>
+    </settings>
+
     <!-- 配置mybatis的环境信息 -->
     <!--别名-->
     <typeAliases>
         <package name="com.itcast.mybatis.po"/>
     </typeAliases>
+    
+    
+    <!--setting-->
+
 
     <!--环境配置-->
     <environments default="development">
@@ -28,5 +40,6 @@
         <!--<mapper resource="com/itcast/mybatis/po/User.xml" />-->
         <!--<mapper resource="com/itcast/mybatis/dao/UserMapper.xml"/>-->
         <package name="com.itcast.mybatis.dao"/>
+        <package name="com.itcast.ssm.po"/>
     </mappers>
 </configuration>

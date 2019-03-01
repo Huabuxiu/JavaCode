@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--Handler的开发-->
+    <bean id="itemsController1" name="/queryItems_test.action" class="itcast.ssm.controller.ItemsController1" />
+
+    <bean class="itcast.ssm.controller.ItemsController2"/>
+
+    <bean class="itcast.ssm.controller.UserController"/>
+
+    <!--映射器-->
+    <!--非注解-->
+    <bean class="org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping" />
+    <!--注解-->
+    <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping"/>
+
+
+
+    <!--适配器-->
+    <!--非注解-->
+    <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter"/>
+    <!--注解-->
+    <bean class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping"/>
+
+
+    <!-- 视图解析器
+        解析jsp解析，默认使用jstl标签，classpath下的得有jstl的包
+         -->
+
+    <bean
+            class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+    </bean>
+
+</beans>

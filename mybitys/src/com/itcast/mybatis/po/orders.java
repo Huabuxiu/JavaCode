@@ -1,6 +1,7 @@
 package com.itcast.mybatis.po;
 
 import java.util.Date;
+import java.util.List;
 
 /**
  * @program: mybitys
@@ -19,6 +20,18 @@ public class orders {
 
     private String note;
 
+    private List<OrderDetail> orderDetails;
+
+    private User user;
+
+    public com.itcast.mybatis.po.User getUser() {
+        return user;
+    }
+
+    public void setUser(User user) {
+        this.user = user;
+    }
+
     public int getId() {
         return id;
     }
@@ -33,6 +46,14 @@ public class orders {
 
     public void setUser_id(int user_id) {
         this.user_id = user_id;
+    }
+
+    public List<OrderDetail> getOrderDetails() {
+        return orderDetails;
+    }
+
+    public void setOrderDetails(List<OrderDetail> orderDetails) {
+        this.orderDetails = orderDetails;
     }
 
     public String getNumber() {
@@ -67,6 +88,8 @@ public class orders {
                 ", number='" + number + '\'' +
                 ", createtime=" + createtime +
                 ", note='" + note + '\'' +
+                ", orderDetails=" + orderDetails +
+                ", user=" + user +
                 '}';
     }
 }

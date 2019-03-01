@@ -1,4 +1,5 @@
-package com.itcast.mybatis.po;
+package itcast.ssm.po;
+
 
 import java.util.Date;
 import java.util.List;
@@ -20,15 +21,6 @@ public class User {
     private String sex;
     private String address;
 
-    private List<orders> ordersList;
-
-    public List<orders> getOrdersList() {
-        return ordersList;
-    }
-
-    public void setOrdersList(List<orders> ordersList) {
-        this.ordersList = ordersList;
-    }
 
     public String getSex() {
         return sex;
