@@ -4,25 +4,17 @@
     <bookmark url="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" line="11" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/String/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/LeetCode/String/AnagramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_exm/findnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp_exm/numbercheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/OrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/items.java" afterDir="false" />
+    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="add String">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Array/moveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/String/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/LeetCode/String/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/printListFromTailToHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/replaceSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybitys/test/itcast/mapper/UserMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Experiment/LeetCode/Tree/TreeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Experiment/LeetCode/Tree/TreeMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/out/production/mybitys/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/out/production/mybitys/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/out/production/mybitys/com/itcast/mybatis/po/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/out/production/mybitys/com/itcast/mybatis/po/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/dao/ordersCustomMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/itcast/mybatis/po/orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/test/com/itcast/mybatis/dao/ordersCustomMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/test/com/itcast/mybatis/dao/ordersCustomMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/config/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/config/applicationContext.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,19 +83,21 @@
     <session id="-1977732262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -115,8 +109,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="81" />
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="89" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
@@ -128,8 +122,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6119" />
-          <entry key="PLAIN_TEXT" value="130" />
+          <entry key="JAVA" value="6901" />
+          <entry key="PLAIN_TEXT" value="136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -141,98 +135,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/exp_7/systemuseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/剑指offer/replaceSpace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/maximumDepth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exp_exm/numbercheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exp_exm/findnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/String/Anagram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="364">
+              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exp_6/stringcount.java">
+        <entry file="file://$PROJECT_DIR$/src/剑指offer/printListFromTailToHead.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/AnagramTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/TreeMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/InorderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="487">
+              <caret line="34" column="25" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="34" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/SymmetricTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -244,8 +164,8 @@
       <list>
         <option value="Arquillian JUnit Test Class" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -268,11 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCode/List/ListMain.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/List/HasCycle.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/Array/RemoveDuplicatesSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/Array/MaxProfit.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/Array/Rotate.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/ContainsDuplicate.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/SingleNumber.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/Intersect.java" />
@@ -319,6 +234,11 @@
         <option value="$PROJECT_DIR$/src/exp_exm/findnum.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/String/Anagram.java" />
         <option value="$PROJECT_DIR$/src/Test/LeetCode/String/AnagramTest.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Array/moveZero.java" />
+        <option value="$PROJECT_DIR$/src/Test/LeetCode/String/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/String/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/replaceSpace.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/printListFromTailToHead.java" />
       </list>
     </option>
   </component>
@@ -336,9 +256,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-1088" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="y" value="-8" />
+    <option name="width" value="1937" />
+    <option name="height" value="1097" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -346,9 +266,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -365,41 +282,13 @@
               <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="Experiment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exp_6" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="Experiment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
+              <item name="TowSum.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Experiment" type="b2602c69:ProjectViewProjectNode" />
@@ -409,6 +298,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -417,7 +308,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547643310287" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551786590167" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -457,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AnagramTest.isAnagram">
+  <component name="RunManager" selected="Application.isPrime">
     <configuration name="ArrayMain" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Array.ArrayMain" />
       <module name="Experiment" />
@@ -477,6 +368,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="isPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isPrime.isPrime" />
+      <module name="Experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isPrime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -513,33 +417,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatecountTest.count" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeTest.isPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Experiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exp_exm.*" />
+          <option name="PATTERN" value="LeetCode.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exp_7" />
-      <option name="MAIN_CLASS_NAME" value="exp_7.DatecountTest" />
-      <option name="METHOD_NAME" value="count" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="systemuseTest.showsystemvaleu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Experiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exp_exm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exp_7" />
-      <option name="MAIN_CLASS_NAME" value="exp_7.systemuseTest" />
-      <option name="METHOD_NAME" value="showsystemvaleu" />
+      <option name="PACKAGE_NAME" value="LeetCode.String" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.String.PalindromeTest" />
+      <option name="METHOD_NAME" value="isPalindrome" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -547,19 +435,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayMain" />
-      <item itemvalue="JUnit.DatecountTest.count" />
-      <item itemvalue="JUnit.systemuseTest.showsystemvaleu" />
       <item itemvalue="Application.TreeMain" />
       <item itemvalue="Application.numbercheck" />
       <item itemvalue="JUnit.AnagramTest.isAnagram" />
+      <item itemvalue="JUnit.PalindromeTest.isPalindrome" />
+      <item itemvalue="Application.isPrime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isPrime" />
+        <item itemvalue="JUnit.PalindromeTest.isPalindrome" />
         <item itemvalue="JUnit.AnagramTest.isAnagram" />
         <item itemvalue="Application.numbercheck" />
         <item itemvalue="Application.TreeMain" />
-        <item itemvalue="JUnit.systemuseTest.showsystemvaleu" />
-        <item itemvalue="JUnit.DatecountTest.count" />
       </list>
     </recent_temporary>
   </component>
@@ -601,6 +489,10 @@
       <workItem from="1545190980135" duration="283000" />
       <workItem from="1546596766947" duration="4890000" />
       <workItem from="1547637377641" duration="1433000" />
+      <workItem from="1551666458141" duration="2157000" />
+      <workItem from="1551669181059" duration="38000" />
+      <workItem from="1551674362939" duration="1905000" />
+      <workItem from="1551783909894" duration="1947000" />
     </task>
     <task id="LOCAL-00001" summary="idea git tet">
       <created>1542010131585</created>
@@ -655,45 +547,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="stringcountTest_stringCount - 2018.12.12 at 09h 39m 15s.xml">
-      <configuration name="stringcountTest.stringCount" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 06m 43s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="stringcountTest_Stringcountfromkeyboard - 2018.12.12 at 09h 40m 59s.xml">
-      <configuration name="stringcountTest.Stringcountfromkeyboard" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 07m 13s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="stringcountTest_Stringcountfromkeyboard - 2018.12.12 at 09h 41m 45s.xml">
-      <configuration name="stringcountTest.Stringcountfromkeyboard" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 07m 53s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="stringcountTest_stringCount - 2018.12.12 at 09h 43m 46s.xml">
-      <configuration name="stringcountTest.stringCount" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 08m 58s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="stringcountTest_stringCount - 2018.12.12 at 09h 44m 17s.xml">
-      <configuration name="stringcountTest.stringCount" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 11m 23s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DatecountTest_count - 2018.12.17 at 09h 07m 12s.xml">
-      <configuration name="DatecountTest.count" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 11m 33s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="systemuseTest_showsystemvaleu - 2018.12.17 at 09h 27m 39s.xml">
-      <configuration name="systemuseTest.showsystemvaleu" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 11m 42s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="systemuseTest_showsystemvaleu - 2018.12.17 at 13h 29m 04s.xml">
-      <configuration name="systemuseTest.showsystemvaleu" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 11m 49s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest_isAnagram - 2019.01.16 at 19h 29m 30s.xml">
-      <configuration name="AnagramTest.isAnagram" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 14m 12s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest_isAnagram - 2019.01.16 at 19h 29m 52s.xml">
-      <configuration name="AnagramTest.isAnagram" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_isPalindrome - 2019.03.04 at 13h 14m 20s.xml">
+      <configuration name="PalindromeTest.isPalindrome" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77009000" />
+    <option name="totallyTimeSpent" value="83056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-1088" width="1936" height="1096" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.14285715" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.1883378" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.16353887" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -702,8 +594,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.58064514" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45369127" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3423517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4526535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -711,7 +603,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.5302013" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32882413" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -805,69 +697,26 @@
     <MESSAGE value="单元测试" />
     <MESSAGE value="add exp_5" />
     <MESSAGE value="add exp_7" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exp_7" />
+    <MESSAGE value="add String" />
+    <option name="LAST_COMMIT_MESSAGE" value="add String" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/LeetCode/String/PalindromeTest.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/MaxProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/PlusOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="24" column="23" selection-start-line="21" selection-start-column="11" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/ContainsDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/TowSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exp_4/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="26" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exp_4/Sphere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="20" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/exp_4/SphereTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exp_4/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -1097,14 +946,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/FirstUniqCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/exp_7/systemuseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="208">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1133,9 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1146,38 +995,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/exp_6/stringcount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exp_exm/findnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/FirstUniqCharTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/AnagramTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="286">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/String/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exp_6/stringcount.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/AnagramTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/LeetCode/String/PalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TowSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isPrime/isPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/String/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Array/moveZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/replaceSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/printListFromTailToHead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="34" column="25" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

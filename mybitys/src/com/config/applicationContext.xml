@@ -37,6 +37,12 @@
     </bean>
 
 
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="com.itcast.mapper"/>
+        <property name="sqlSessionFactory" ref="SqlSessionFactory"/>
+    </bean>
+
+
     <bean id="userDao" class="itcast.ssm.dao.UserDaoImp">
         <property name="sqlSessionFactory" ref="SqlSessionFactory"></property>
     </bean>
