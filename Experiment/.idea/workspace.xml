@@ -4,17 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" line="11" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="add String">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Array/moveZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/String/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/LeetCode/String/PalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/printListFromTailToHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/replaceSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybitys/test/itcast/mapper/UserMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/reConstructBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybitys/src/com/config/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybitys/src/com/config/applicationContext.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,12 +75,12 @@
     <session id="-1977732262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.21" value="3" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="4" />
@@ -97,7 +89,7 @@
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -110,7 +102,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="89" />
+          <entry key="JAVA" value="90" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
@@ -122,8 +114,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6901" />
-          <entry key="PLAIN_TEXT" value="136" />
+          <entry key="JAVA" value="7447" />
+          <entry key="PLAIN_TEXT" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -134,24 +126,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/剑指offer/replaceSpace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/剑指offer/printListFromTailToHead.java">
+        <entry file="file://$PROJECT_DIR$/src/剑指offer/reConstructBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="34" column="25" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="34" selection-end-column="25" />
+            <state relative-caret-position="123">
+              <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -188,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCode/Array/ContainsDuplicate.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/SingleNumber.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/Intersect.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/PlusOne.java" />
@@ -239,6 +220,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode/String/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/replaceSpace.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/printListFromTailToHead.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/reConstructBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -255,10 +237,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1937" />
-    <option name="height" value="1097" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -266,6 +248,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,7 +282,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,7 +290,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551786590167" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551786758379" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -492,7 +474,8 @@
       <workItem from="1551666458141" duration="2157000" />
       <workItem from="1551669181059" duration="38000" />
       <workItem from="1551674362939" duration="1905000" />
-      <workItem from="1551783909894" duration="1947000" />
+      <workItem from="1551783909894" duration="2782000" />
+      <workItem from="1551832440934" duration="2578000" />
     </task>
     <task id="LOCAL-00001" summary="idea git tet">
       <created>1542010131585</created>
@@ -543,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545008188395</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add 倒叙输出链表">
+      <created>1551786748786</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1551786748787</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -579,13 +569,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83056000" />
+    <option name="totallyTimeSpent" value="86469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.1883378" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.19101876" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.16353887" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -698,7 +688,8 @@
     <MESSAGE value="add exp_5" />
     <MESSAGE value="add exp_7" />
     <MESSAGE value="add String" />
-    <option name="LAST_COMMIT_MESSAGE" value="add String" />
+    <MESSAGE value="add 倒叙输出链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 倒叙输出链表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -717,13 +708,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/exp_4/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/exp_4/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -1068,18 +1052,27 @@
     <entry file="file://$PROJECT_DIR$/src/剑指offer/replaceSpace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/printListFromTailToHead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="34" column="25" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="34" selection-end-column="25" />
+        <state relative-caret-position="182">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/reConstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
           </folding>
         </state>
       </provider>
