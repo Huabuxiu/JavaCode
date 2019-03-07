@@ -4,8 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/LeetCode/String/ReverseString.java" line="11" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/reConstructBinaryTree.java" afterDir="false" />
+    <list default="true" id="6513fb87-2531-4641-876a-b4864b885fac" name="Default Changelist" comment="add 还原二叉树">
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,7 +75,7 @@
     <session id="-1977732262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -102,7 +102,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="90" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="91" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
@@ -114,8 +115,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7447" />
-          <entry key="PLAIN_TEXT" value="147" />
+          <entry key="JAVA" value="7523" />
+          <entry key="PLAIN_TEXT" value="160" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -127,13 +128,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/剑指offer/reConstructBinaryTree.java">
+        <entry file="file://$PROJECT_DIR$/src/剑指offer/queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+            <state relative-caret-position="520">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#177#186#0" expanded="true" />
+                <element signature="e#227#236#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,7 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCode/Array/SingleNumber.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/Intersect.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/PlusOne.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Array/ArrayMain.java" />
@@ -221,6 +223,7 @@
         <option value="$PROJECT_DIR$/src/剑指offer/replaceSpace.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/printListFromTailToHead.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/reConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/queue.java" />
       </list>
     </option>
   </component>
@@ -237,10 +240,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1099" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -295,7 +298,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/Test" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/junit-4.12.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/swift-framework-master/swift-framework-master/swift.iml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -475,7 +478,7 @@
       <workItem from="1551669181059" duration="38000" />
       <workItem from="1551674362939" duration="1905000" />
       <workItem from="1551783909894" duration="2782000" />
-      <workItem from="1551832440934" duration="2578000" />
+      <workItem from="1551832440934" duration="3696000" />
     </task>
     <task id="LOCAL-00001" summary="idea git tet">
       <created>1542010131585</created>
@@ -533,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551786748787</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add 还原二叉树">
+      <created>1551836428814</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551836428814</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -569,7 +579,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86469000" />
+    <option name="totallyTimeSpent" value="87587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -689,7 +699,8 @@
     <MESSAGE value="add exp_7" />
     <MESSAGE value="add String" />
     <MESSAGE value="add 倒叙输出链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 倒叙输出链表" />
+    <MESSAGE value="add 还原二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 还原二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -708,20 +719,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test/exp_4/StudentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exp_4/Graduatestudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="41" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/exp_4/GraduatestudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1068,11 +1065,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/reConstructBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        <state relative-caret-position="513">
+          <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
           <folding>
             <element signature="e#214#215#0" expanded="true" />
             <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/swift-framework-master/swift-framework-master/swift.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#177#186#0" expanded="true" />
+            <element signature="e#227#236#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
           </folding>
         </state>
       </provider>
